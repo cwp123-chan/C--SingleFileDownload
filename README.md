@@ -18,7 +18,7 @@ C--SingleFileDownload\bin\Release\DownForIE.exe [json文件路径] [后缀] [保
 
 #### 单条下载成功提示：
 
-![success](C:\Users\admin\Project\C#\C--SingleFileDownload\image\success.jpg)
+![success](https://github.com/C--SingleFileDownload/image/success.jpg)
 
 #### 单条下载失败提示：![Falid](C:\Users\admin\Project\C#\C--SingleFileDownload\image\Falid.jpg)
 
