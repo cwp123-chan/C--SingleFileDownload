@@ -18,19 +18,19 @@ C--SingleFileDownload\bin\Release\DownForIE.exe [json文件路径] [后缀] [保
 
 #### 单条下载成功提示：
 
-![success](https://github.com/C--SingleFileDownload/image/success.jpg)
+![success](./image/success.jpg)
 
-#### 单条下载失败提示：![Falid](C:\Users\admin\Project\C#\C--SingleFileDownload\image\Falid.jpg)
+#### 单条下载失败提示：![Falid](.\image\Falid.jpg)
 
-#### 文件总个数提示：![FileNum](C:\Users\admin\Project\C#\C--SingleFileDownload\image\FileNum.jpg)
+#### 文件总个数提示：![FileNum](.\image\FileNum.jpg)
 
-#### 汇总信息提示：![AlInfo](C:\Users\admin\Project\C#\C--SingleFileDownload\image\AlInfo.jpg)
+#### 汇总信息提示：![AlInfo](.\image\AlInfo.jpg)
 
-#### 错误列表地址提示：![ErrList](C:\Users\admin\Project\C#\C--SingleFileDownload\image\ErrList.jpg)
+#### 错误列表地址提示：![ErrList](.\image\ErrList.jpg)
 
 #### 程序运行时间提示：
 
-![Time](C:\Users\admin\Project\C#\C--SingleFileDownload\image\Time.jpg)
+![Time](.\image\Time.jpg)
 
 ##### 																																				作者：MrChan
 
