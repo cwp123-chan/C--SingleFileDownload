@@ -1,0 +1,8 @@
+C:\Users\admin\UnProject\20200220齐齐哈尔市人民医院\DownForIE\bin\Release\DownForIE.exe.config
+C:\Users\admin\UnProject\20200220齐齐哈尔市人民医院\DownForIE\bin\Release\DownForIE.exe
+C:\Users\admin\UnProject\20200220齐齐哈尔市人民医院\DownForIE\bin\Release\DownForIE.pdb
+C:\Users\admin\UnProject\20200220齐齐哈尔市人民医院\DownForIE\bin\Release\Newtonsoft.Json.dll
+C:\Users\admin\UnProject\20200220齐齐哈尔市人民医院\DownForIE\bin\Release\Newtonsoft.Json.xml
+C:\Users\admin\UnProject\20200220齐齐哈尔市人民医院\DownForIE\obj\Release\DownForIE.csproj.CopyComplete
+C:\Users\admin\UnProject\20200220齐齐哈尔市人民医院\DownForIE\obj\Release\DownForIE.exe
+C:\Users\admin\UnProject\20200220齐齐哈尔市人民医院\DownForIE\obj\Release\DownForIE.pdb
